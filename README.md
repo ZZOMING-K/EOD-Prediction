@@ -14,7 +14,9 @@
 
 ##  👀 프로세스
 
-<img width="977" alt="image" src="https://github.com/user-attachments/assets/e6da00c4-2707-41af-9bbd-54e73a71e87b" />
+![image](https://github.com/user-attachments/assets/3be0cd4b-d688-4e99-99cd-f51cbe76807e)
+
+
 
 <br>  
 
